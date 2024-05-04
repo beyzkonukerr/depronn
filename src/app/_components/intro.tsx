@@ -7,7 +7,7 @@ export function Intro() {
         ROSAT
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        rosat@depron.org{""}
+        iletisim@depron.org{""}
         <a
           href=""
           className="underline hover:text-blue-600 duration-200 transition-colors"
