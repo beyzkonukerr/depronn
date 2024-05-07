@@ -7,12 +7,12 @@ export function Intro() {
         ROSAT
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        iletisim@depron.org{""}
         <a
-          href=""
+          href="mailto:iletisim@depron.org"
           className="underline hover:text-blue-600 duration-200 transition-colors"
-        ></a>
-        {""}
+        >
+          iletisim@depron.org
+        </a>
       </h4>
     </section>
   );
