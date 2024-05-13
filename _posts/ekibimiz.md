@@ -15,12 +15,12 @@ Hüseyin AYĞAN - Takım Lideri ve Bilişim Sistemleri ve Teknolojileri Öğrenc
 Doğukan YANIK - Donanım & Yazılım Lideri ve Bilişim Sistemleri ve Teknolojileri Öğrencisi: Elektronik ve mekanik konularda uzman olan Doğukan, robotik sistemlerin tasarımı ve montajı konusunda liderdir. Hassas detaylara olan dikkati ve yenilikçi yaklaşımıyla projelere değer katmaktadır.
 
 ## Web Geliştirme ve Tasarım
+Beyza KONUKER  - Web Tasarım Uzmanı ve Bilişim Sistemleri ve Teknolojileri Öğrencisi: Beyza, kullanıcı deneyimini iyileştirmek ve etkileyici web siteleri oluşturmak için HTML, CSS ve JavaScript gibi teknolojileri ustalıkla kullanır. WEB tasarım konusunda deneyimlidir. 
 
 İbrahim Hakkı HARMANKAYA - Tasarımcı ve Bilişim Sistemleri ve Teknolojileri Öğrencisi: İbrahim, robotik projelerin görsel ve kullanıcı dostu tasarımlarını oluşturmakta liderdir. Estetik duyarlılığı ve yaratıcı vizyonuyla, teknolojiyi insanlarla buluşturan çözümler geliştirmektedir.
 
 Nuri Eray BİLGİN - Sosyal Medya uzmanı ve Bilişim Sistemleri ve Teknolojileri Öğrencisi: Eray, dijital pazarlama ve sosyal medya stratejileri konusunda uzmanlaşmıştır. Estetik duyarlılığı ve yaratıcı vizyonuyla marka kimliği oluşturma, logo tasarımı ve uzman video düzenleme yetenekleriyle iletişim alanlarında uzmandır. 
 
-Beyza KONUKER  - Web Tasarım Uzmanı ve Bilişim Sistemleri ve Teknolojileri Öğrencisi: Beyza, kullanıcı deneyimini iyileştirmek ve etkileyici web siteleri oluşturmak için HTML, CSS ve JavaScript gibi teknolojileri ustalıkla kullanır. WEB tasarım konusunda deneyimlidir. 
 
 ## Araştırma ve Teknik Ekip
 

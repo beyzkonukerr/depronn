@@ -9,7 +9,7 @@ export function Intro() {
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         <a
           href="mailto:iletisim@depron.org"
-          className="underline hover:text-blue-600 duration-200 transition-colors"
+          className="underline hover:text-red-600 duration-200 transition-colors"
         >
           iletisim@depron.org
         </a>
